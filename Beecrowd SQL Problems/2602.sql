@@ -24,4 +24,6 @@ VALUES
   /*  Execute this query to drop the tables */
   -- DROP TABLE customers; --
 
+---   SOLUTION BELOW   ---
+
   SELECT name FROM customers WHERE state = 'RS'
